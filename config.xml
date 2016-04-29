@@ -7,16 +7,16 @@
 		
 		<!-- verisonCode is optional and Android only -->
 		
-	<name>Aplicacion cinco DIA DE LA TIERRA</name>
+	<name>Aplicacion Dia de la Tierra</name>
 	
 	<description>
-		Aplicacion que muestra informacion sobre el dia de la tierra y el cuidado del medio ambiente.
+		Aplicacion sobre el dia de la tierra y el cuidado del medio ambiente.
 	</description>
 	
 	<preference name="phonegap-version" value="3.1.0" />
 	
 	<author href="http://build.phonegap.com" email="support@phonegap.com">
-		Caty López Rojas 
+		Luis Alberto Ramos Luna
 	</author>
 	
 <gap:plugin name="org.apache.cordova.device" version="0.2.12" />
