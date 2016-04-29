@@ -176,13 +176,13 @@
 	font-weight: normal;
 }
 #wowslider-container1 .ws_images ul{
-	animation: wsBasic 28s infinite;
-	-moz-animation: wsBasic 28s infinite;
-	-webkit-animation: wsBasic 28s infinite;
+	animation: wsBasic 55.3s infinite;
+	-moz-animation: wsBasic 55.3s infinite;
+	-webkit-animation: wsBasic 55.3s infinite;
 }
-@keyframes wsBasic{0%{left:-0%} 7.14%{left:-0%} 14.29%{left:-100%} 21.43%{left:-100%} 28.57%{left:-200%} 35.71%{left:-200%} 42.86%{left:-300%} 50%{left:-300%} 57.14%{left:-400%} 64.29%{left:-400%} 71.43%{left:-500%} 78.57%{left:-500%} 85.71%{left:-600%} 92.86%{left:-600%} }
-@-moz-keyframes wsBasic{0%{left:-0%} 7.14%{left:-0%} 14.29%{left:-100%} 21.43%{left:-100%} 28.57%{left:-200%} 35.71%{left:-200%} 42.86%{left:-300%} 50%{left:-300%} 57.14%{left:-400%} 64.29%{left:-400%} 71.43%{left:-500%} 78.57%{left:-500%} 85.71%{left:-600%} 92.86%{left:-600%} }
-@-webkit-keyframes wsBasic{0%{left:-0%} 7.14%{left:-0%} 14.29%{left:-100%} 21.43%{left:-100%} 28.57%{left:-200%} 35.71%{left:-200%} 42.86%{left:-300%} 50%{left:-300%} 57.14%{left:-400%} 64.29%{left:-400%} 71.43%{left:-500%} 78.57%{left:-500%} 85.71%{left:-600%} 92.86%{left:-600%} }
+@keyframes wsBasic{0%{left:-0%} 5.24%{left:-0%} 14.29%{left:-100%} 19.53%{left:-100%} 28.57%{left:-200%} 33.82%{left:-200%} 42.86%{left:-300%} 48.1%{left:-300%} 57.14%{left:-400%} 62.39%{left:-400%} 71.43%{left:-500%} 76.67%{left:-500%} 85.71%{left:-600%} 90.96%{left:-600%} }
+@-moz-keyframes wsBasic{0%{left:-0%} 5.24%{left:-0%} 14.29%{left:-100%} 19.53%{left:-100%} 28.57%{left:-200%} 33.82%{left:-200%} 42.86%{left:-300%} 48.1%{left:-300%} 57.14%{left:-400%} 62.39%{left:-400%} 71.43%{left:-500%} 76.67%{left:-500%} 85.71%{left:-600%} 90.96%{left:-600%} }
+@-webkit-keyframes wsBasic{0%{left:-0%} 5.24%{left:-0%} 14.29%{left:-100%} 19.53%{left:-100%} 28.57%{left:-200%} 33.82%{left:-200%} 42.86%{left:-300%} 48.1%{left:-300%} 57.14%{left:-400%} 62.39%{left:-400%} 71.43%{left:-500%} 76.67%{left:-500%} 85.71%{left:-600%} 90.96%{left:-600%} }
 
 #wowslider-container1 .ws_images img, #wowslider-container1 .ws_effect img, #wowslider-container1 .ws_effect>* {
     border-radius: 6px; 
