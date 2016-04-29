@@ -18,4 +18,4 @@ function ws_blur(p,n,c){var h=jQuery;var b=!p.noCanvas&&!window.opera&&!!documen
 // Obfuscated by Javascript Obfuscator
 // http://javascript-source.com
 //***********************************************
-jQuery("#wowslider-container1").wowSlider({effect:"blur",prev:"",next:"",duration:50*100,delay:29*100,width:960,height:360,autoPlay:true,playPause:true,stopOnHover:false,loop:false,bullets:true,caption:true,captionEffect:"slide",controls:true,onBeforeStep:0,images:0});
+jQuery("#wowslider-container1").wowSlider({effect:"blur",prev:"",next:"",duration:50*100,delay:33*100,width:960,height:360,autoPlay:true,playPause:true,stopOnHover:false,loop:false,bullets:true,caption:true,captionEffect:"slide",controls:true,onBeforeStep:0,images:0});
